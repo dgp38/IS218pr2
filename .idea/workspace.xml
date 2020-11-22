@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="new prectice">
+      <change afterPath="$PROJECT_DIR$/model/registrationdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/accountsdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/accountsdb.php" afterDir="false" />
+    </list>
+    <list id="505ce25e-e9a2-4520-9cbf-996c6b556230" name="new prectice" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IS218Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/displayquestion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/questionsdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/questionsdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/registrationform.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/registrationform.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1k7kCW5imDpf5XcbAHS6CviIy96" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="" />
+      <changelist id="505ce25e-e9a2-4520-9cbf-996c6b556230" name="new prectice" comment="" />
+      <created>1605058889748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605058889748</updated>
+      <workItem from="1605058890913" duration="672000" />
+      <workItem from="1605060259073" duration="630000" />
+      <workItem from="1605744630462" duration="1944000" />
+      <workItem from="1605825289003" duration="630000" />
+      <workItem from="1605839019599" duration="19689000" />
+      <workItem from="1606017592829" duration="5364000" />
+    </task>
+    <task id="LOCAL-00001" summary="new prectice">
+      <created>1606016624898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606016624898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new prectice" />
+    <option name="LAST_COMMIT_MESSAGE" value="new prectice" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1867" y="111" key="#Deployment" timestamp="1605842221884">
+      <screen x="1440" y="-24" width="1920" height="1057" />
+    </state>
+    <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1605840292907" />
+    <state x="1867" y="111" key="#Deployment/0.23.1440.812/1440.-24.1920.1057@1440.-24.1920.1057" timestamp="1605842221884" />
+    <state x="1867" y="103" key="#Deployment/0.23.1440.877/1440.-24.1920.992@1440.-24.1920.992" timestamp="1605744668167" />
+    <state x="445" y="281" key="#Notifications" timestamp="1606016917057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="445" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1606016917057" />
+    <state x="345" y="129" key="#Options" timestamp="1605060337604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="345" y="129" key="#Options/0.0.1440.900@0.0.1440.900" timestamp="1605060337604" />
+    <state x="388" y="100" key="#PHP" timestamp="1605839448761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="388" y="100" key="#PHP/0.0.1440.900@0.0.1440.900" timestamp="1605839448761" />
+    <state x="304" y="102" key="#SSH_Configurations" timestamp="1605060658542">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="304" y="102" key="#SSH_Configurations/0.0.1440.900@0.0.1440.900" timestamp="1605060658542" />
+    <state x="524" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606059757622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="2138" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605747188876" />
+    <state x="524" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606059757622" />
+    <state x="620" y="353" width="288" height="264" key="Github.ShareDialog" timestamp="1606070907187">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="2266" y="376" key="Github.ShareDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605887537839" />
+    <state x="620" y="353" width="288" height="264" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1606070907187" />
+    <state x="2145" y="184" key="Github.UntrackedFilesDialog" timestamp="1605887589806">
+      <screen x="1440" y="-47" width="1920" height="1080" />
+    </state>
+    <state x="2145" y="184" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605887589806" />
+    <state x="2159" y="409" key="NewPhpFileDialog" timestamp="1605986557031">
+      <screen x="1440" y="-47" width="1920" height="1080" />
+    </state>
+    <state x="2159" y="409" key="NewPhpFileDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605986557031" />
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1605059452146" />
+    <state x="417" y="159" key="RollbackChangesDialog" timestamp="1606070003483">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="417" y="159" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606070003483" />
+    <state x="1735" y="60" key="SettingsEditor" timestamp="1605746306207">
+      <screen x="1440" y="-47" width="1920" height="1080" />
+    </state>
+    <state x="1735" y="60" key="SettingsEditor/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605746306207" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605058895826" />
+    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1606017501133">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1606017501133" />
+    <state x="556" y="356" key="WebDeployment.AddServerDialog.v.1" timestamp="1605058990011">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="356" key="WebDeployment.AddServerDialog.v.1/0.0.1440.900@0.0.1440.900" timestamp="1605058990011" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1606016913337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1606016913337" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606063582104">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1606063582104" />
+    <state x="558" y="248" key="svn.repositoryBrowser" timestamp="1606016696364">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="248" key="svn.repositoryBrowser/0.0.1440.900@0.0.1440.900" timestamp="1606016696364" />
+  </component>
+</project>
