@@ -1,14 +1,19 @@
 <?php include('abstract/header.php'); ?>
 
-        <form action ="index.php" method="post">
-            <input type = "hidden" name="action" value = "validatelogin">
-            <div>Email ID:
-                <input type="text"  name="email"></div>
+<form action="index.php" method="post">
+    <input type="hidden" name="action" value="validatelogin">
 
-            <div>Password:
-                <input type="text"  name="password"></div>
+    <div class="form-group">
+        <label for="email">Email Address</label>
+        <input type="email" class="form-control" name="email" id="email">
+    </div>
 
-            <div>Submit:
-                <input type="submit" name="submit" value="submit"></div>
-        </form>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" class="form-control" name="password" id="password">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
 <?php include('abstract/footer.php'); ?>

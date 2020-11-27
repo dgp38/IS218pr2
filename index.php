@@ -3,6 +3,7 @@ require('model/data_db.php');
 require('model/accountsdb.php');
 require('model/questionsdb.php');
 require ('model/registrationdb.php');
+require ('model/Namedb.php');
 
 $action = filter_input(INPUT_POST, 'action');
 if ($action == NULL) {
@@ -63,11 +64,13 @@ switch ($action) {
         break;
     }
 
+
     case 'display_questions':  {
         $userId = filter_input(INPUT_GET, 'userId');
         if($userId == NULL || $userId < 0) {
             header('Location: .?action=display_login');
         } else {
+            $F_name = getName($userId);
             $questions = get_users_questions($userId);
             include('views/displayquestion.php');
         }

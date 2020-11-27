@@ -32,25 +32,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="new prectice">
-      <change afterPath="$PROJECT_DIR$/model/registrationdb.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/accountsdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/accountsdb.php" afterDir="false" />
-    </list>
-    <list id="505ce25e-e9a2-4520-9cbf-996c6b556230" name="new prectice" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IS218Project2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/displayquestion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Namedb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/questionsdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/questionsdb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/abstract/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/abstract/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/displayquestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/displayquestion.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/registrationform.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/registrationform.php" afterDir="false" />
     </list>
+    <list id="505ce25e-e9a2-4520-9cbf-996c6b556230" name="new prectice" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +101,8 @@
       <workItem from="1605744630462" duration="1944000" />
       <workItem from="1605825289003" duration="630000" />
       <workItem from="1605839019599" duration="19689000" />
-      <workItem from="1606017592829" duration="5364000" />
+      <workItem from="1606017592829" duration="5907000" />
+      <workItem from="1606146878024" duration="5199000" />
     </task>
     <task id="LOCAL-00001" summary="new prectice">
       <created>1606016624898</created>
@@ -192,11 +182,12 @@
       <screen x="1440" y="-47" width="1920" height="1080" />
     </state>
     <state x="2145" y="184" key="Github.UntrackedFilesDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605887589806" />
-    <state x="2159" y="409" key="NewPhpFileDialog" timestamp="1605986557031">
-      <screen x="1440" y="-47" width="1920" height="1080" />
+    <state x="2159" y="422" key="NewPhpFileDialog" timestamp="1606234452997">
+      <screen x="1440" y="-24" width="1920" height="1057" />
     </state>
     <state x="2159" y="409" key="NewPhpFileDialog/0.0.1440.900/1440.-47.1920.1080@1440.-47.1920.1080" timestamp="1605986557031" />
     <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1605059452146" />
+    <state x="2159" y="422" key="NewPhpFileDialog/0.23.1440.812/1440.-24.1920.1057@1440.-24.1920.1057" timestamp="1606234452997" />
     <state x="417" y="159" key="RollbackChangesDialog" timestamp="1606070003483">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
