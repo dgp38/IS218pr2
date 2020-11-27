@@ -31,14 +31,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="new prectice">
-      <change afterPath="$PROJECT_DIR$/model/Namedb.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/abstract/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/abstract/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/displayquestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/displayquestion.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_form.php" afterDir="false" />
-    </list>
+    <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="new a new file" />
     <list id="505ce25e-e9a2-4520-9cbf-996c6b556230" name="new prectice" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +45,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -73,6 +67,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -102,7 +97,7 @@
       <workItem from="1605825289003" duration="630000" />
       <workItem from="1605839019599" duration="19689000" />
       <workItem from="1606017592829" duration="5907000" />
-      <workItem from="1606146878024" duration="5199000" />
+      <workItem from="1606146878024" duration="5501000" />
     </task>
     <task id="LOCAL-00001" summary="new prectice">
       <created>1606016624898</created>
@@ -111,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606016624898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new a new file">
+      <created>1606503106147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606503106147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +145,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new prectice" />
-    <option name="LAST_COMMIT_MESSAGE" value="new prectice" />
+    <MESSAGE value="new a new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="new a new file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1867" y="111" key="#Deployment" timestamp="1605842221884">
