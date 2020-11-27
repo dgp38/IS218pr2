@@ -31,7 +31,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="new a new file" />
+    <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="project">
+      <change afterPath="$PROJECT_DIR$/edit_file/headedit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit_file/loginedit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit_file/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/abstract/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/abstract/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/registrationform.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/registrationform.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +86,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/edit_file" />
       <recent name="$PROJECT_DIR$/views" />
     </key>
   </component>
@@ -96,7 +105,7 @@
       <workItem from="1605825289003" duration="630000" />
       <workItem from="1605839019599" duration="19689000" />
       <workItem from="1606017592829" duration="5907000" />
-      <workItem from="1606146878024" duration="5814000" />
+      <workItem from="1606146878024" duration="8112000" />
     </task>
     <task id="LOCAL-00001" summary="new prectice">
       <created>1606016624898</created>
@@ -119,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606503248524</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project">
+      <created>1606503546914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606503546914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new prectice" />
     <MESSAGE value="new a new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="new a new file" />
+    <MESSAGE value="project" />
+    <option name="LAST_COMMIT_MESSAGE" value="project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1867" y="111" key="#Deployment" timestamp="1605842221884">

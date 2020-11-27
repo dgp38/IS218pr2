@@ -1,6 +1,7 @@
 <?php include('abstract/header.php'); ?>
 
 <h1>Registration Form</h1>
+<body>
         <form action ="index.php" method="post">
             <input type="hidden" name="action" value ="submit_registration">
 
@@ -21,5 +22,5 @@
 
             <div><input type="submit" value="Sign up"></div>
         </form>
-
+</body>
 <?php include('abstract/footer.php'); ?>
