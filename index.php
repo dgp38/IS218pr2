@@ -58,8 +58,8 @@ switch ($action) {
             include('error_page/errorcheck.php');
 
         } else {
-            create_account($firstname,$lastname,$birthday,$email,$password);
-            header('Location: .?action=display_questions');
+            $userId = create_account($firstname,$lastname,$birthday,$email,$password);
+            header("Location: .?action=display_questions&userId=$userId");
         }
         break;
     }
@@ -68,7 +68,7 @@ switch ($action) {
     case 'display_questions':  {
         $userId = filter_input(INPUT_GET, 'userId');
         if($userId == NULL || $userId < 0) {
-            header('Location: .?action=display_login');
+            header('Location: .?action=show_login');
         } else {
             $F_name = getName($userId);
             $questions = get_users_questions($userId);

@@ -32,12 +32,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f3ad942-917c-44e2-9ecd-2532a63caf21" name="Default Changelist" comment="project">
-      <change afterPath="$PROJECT_DIR$/edit_file/headedit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edit_file/loginedit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edit_file/register.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/abstract/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/abstract/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/login_form.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login_form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/registrationdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/registrationdb.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/registrationform.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/registrationform.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +102,7 @@
       <workItem from="1605825289003" duration="630000" />
       <workItem from="1605839019599" duration="19689000" />
       <workItem from="1606017592829" duration="5907000" />
-      <workItem from="1606146878024" duration="8112000" />
+      <workItem from="1606146878024" duration="11151000" />
     </task>
     <task id="LOCAL-00001" summary="new prectice">
       <created>1606016624898</created>
@@ -135,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606503546914</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="project">
+      <created>1606506010784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606506010784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,10 +235,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="558" y="326" key="VCS.EditChangelistDialog/0.0.1440.900@0.0.1440.900" timestamp="1606503492074" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606503447737">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606679573506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606503447737" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606679573506" />
     <state x="556" y="356" key="WebDeployment.AddServerDialog.v.1" timestamp="1605058990011">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
