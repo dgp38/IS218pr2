@@ -3,7 +3,7 @@
 function  create_account($email,$firstname,$lastname,$birthday,$password) {
     global $db;
     $query = 'INSERT INTO accounts 
-                (email,fname, lname, birthday,password)
+                (email,fname, lname,birthday,password)
                 VALUES
                     (:email,:fname,:lname,:birthday,:password)';
     $statement = $db->prepare($query);

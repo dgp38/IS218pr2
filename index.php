@@ -58,7 +58,7 @@ switch ($action) {
             include('error_page/errorcheck.php');
 
         } else {
-            $userId = create_account($firstname,$lastname,$birthday,$email,$password);
+            $userId = create_account($email,$firstname,$lastname,$birthday,$password);
             header("Location: .?action=display_questions&userId=$userId");
         }
         break;
